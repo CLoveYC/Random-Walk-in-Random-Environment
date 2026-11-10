@@ -1,7 +1,7 @@
 [project]
-name = "tmp"
+name = "rwre"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simulations of one-dimensional random walks in random environment: potentials, trajectories and scaling."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
